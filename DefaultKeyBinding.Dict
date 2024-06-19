@@ -32,6 +32,7 @@ which is completely different.
 */
 
 {
+    /*
     "^~@1" = (insertText:, "!");
 
     "^~@2" = (insertText:, "'");
@@ -69,6 +70,7 @@ which is completely different.
 
     "^~@\UF716" = (insertText:, "\\");
     "^$~@\UF716" = (insertText:, "|");
+    */
 
     /* Not working, nothing in output. */
     "^~@\UF717" = (insertText:, "/");
